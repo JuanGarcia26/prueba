@@ -1,0 +1,16 @@
+Switch0,No Hay,10-15-20,1,No tiene,Campus_UNO
+S_V_I (Multicapa),172.16.34.169,10-15-20,2,No tiene,Campus_UNO
+IPV6,No tiene,No contiene,1,No hay,Sector_OUTSORCING
+IPV6-1,No tiene,No contiene,1,No hay,Sector_OUTSORCING
+Switch3,No tiene,10-11-12,2,Port-channel,Campus_MATRIZ
+Switch4,No tiene,10-11-12,1,Port-channel,Campus_MATRIZ
+Switch5,No tiene,10-20-30,2,Port-channel,Campus_MATRIZ
+CopyPrinter0,172.16.34.165,No utiliza,1,No hay,Campus_UNO
+Server0,172.16.34.139,No utiliza,2,No hay,Campus_UNO
+Laptop1,172.16.33.10,No utiliza ,1,No hay,Campus_UNO
+PC4,ACAD:DE:FE:10::10,No utiliza,1,OSPF,Sector_OUTSORCING
+PC5,No tiene,No utiliza,1,OSPF,Sector_OUTSORCING
+PC8,No tiene,No utiliza,1,No hay,Campus_MATRIZ
+PC11,172.16.34.10,No hay,1,No hay,Campus_MATRIZ
+Server1,190.190.190.10,No utiliza,3,No hay,No pertenece a ningun campus
+Laptop0,190.190.190.20,No utiliza,1,No hay,No pertenece a ningun campus
